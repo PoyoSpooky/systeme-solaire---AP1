@@ -4,7 +4,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
-		<title>TD1</title>
+		<title>TD2</title>
 		<link rel="stylesheet" href="info_planetes.css" />
 	</head>
 	<body>
@@ -40,7 +40,7 @@
 				La plus grande lune de Neptune est Triton, qui est unique parmi les grandes lunes du système solaire en raison de son mouvement rétrograde, c'est-à-dire qu'il orbite dans le sens opposé à la rotation de la planète.
 			</div>
 			<div class="button-container">
-				<button id="backButton">Retour</button>
+			<button id="backButton"><a href="planete.php">Retour</a></button>
 			</div>
 		</div>
 		<script src="affichage.js"></script>

@@ -19,5 +19,5 @@ let backButton = document.getElementById("backButton");
 
 backButton.addEventListener("click", function() {
     // Remplacez "page_retour.html" par le chemin de votre page de retour
-    window.location.href = "planete.html";
+    window.location.href = "planete.php";
 });
